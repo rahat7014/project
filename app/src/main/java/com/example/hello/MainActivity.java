@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private void Hello()
     {
         int i = 2+3;
+        int j = 3+3;
+
     }
 }
